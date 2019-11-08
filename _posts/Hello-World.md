@@ -1,12 +1,34 @@
 ---
 layout: post
-title: You're up and running!
+title: November 7, 2019 - First Post
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+First post on github, which is pretty exciting!
 
-This is my edits
+#### Goals for the day:
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+1. Upload my first post onto github
+	* Include recap of what has happened in the past 2-3 weeks
+2. Figure out how to add comments section to posts.
+3. Submit all measurements done for juvenile geoduck images to [shell length google spreadsheet](https://docs.google.com/spreadsheets/d/1Y75kqmWWuAink48U4vHjgaEWLgbKEyJRrspbAxzW3jc/edit#gid=1208042429)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+---
+
+#### Recap
+
+* Onboarding process completed with Sam
+* Joined Shelly's geoduck project
+	* Learned how to use ImageJ to measure shell length on juvenile geoduck (link to protocol is [here](https://github.com/shellytrigg/P_generosa/blob/master/amb_v_varlowpH_juvis/ImageJ_shelllength_protocol.md))
+	* Measured juvenile geoducks from 20 images
+
+---
+
+#### (Current) Lab Work Overview
+
+* First day working in the lab! 
+* Continued doing geoduck measurements on ImageJ
+* Had a couple of questions concerning the accuracy of my measurements, but I went over them with Shelly, and it seems like I've been on the right track so far:
+	* **Problem**: Sometimes had difficulty distinguishing what is the shell versus the body of the geoduck
+		* **Solution**: Sometimes it is hard to tell what is the shell and what is the body, so that's why all of the living geoducks in the image are being measured. These measurements will help to produce an average shell length, which is why it is OK if some of the shell lengths are slightly off (the only time this would cause a problem is if the number of geoducks present is very low [average can be skewed significantly from one measurement])
+	* **Problem**: Not sure if I should measure clusters of small geoduck shells
+		* **Solution**: big clusters of shells usually indicate that something (eg., algae) has brought the shells together to degrade them, so *don't measure them*. 
