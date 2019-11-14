@@ -2,7 +2,7 @@
 layout: post
 title: November 13, 2019 - Growth Rate Based On Size Distributions
 ---
-###Recap of Yesterday
+### Recap of Yesterday
 
 Yesterday, Shelly and I did some really fascinating analysis on the juvenile geoduck measurements made on ImageJ (see last post [here](https://h-ra.github.io/2-juvenilegeoduckdataanalysis/)) and we found that the juvenile geoducks in both var.low parental and var.low current treatments had a larger size distribution than all other treatments. 
 
@@ -12,7 +12,7 @@ So, ideally, we would want to find a way to calculate the growth rate of the geo
 
 ---
 
-###Current Lab Work
+### Current Lab Work
 
 Today, I have been looking online to possibly find a way to calculate growth rate based on the information we have. I have found a few sources that could possibly help us with this (at least as a starting point of some kind):
 
