@@ -1,8 +1,7 @@
 ---
 layout: post
-title: November 14, 2019 - Transferring Frozen Larvae into Ethanol: Part 1
+title: November 14, 2019 - Transferring Frozen Larvae into Ethanol Part 1
 ---
-
 Today, I began helping Laura with transferring frozen Olympia oyster larvae from her experiment studying temperature and food effects on the parental generation and the subsequent effects that may have been experienced by the larvae.  
 
 ---
