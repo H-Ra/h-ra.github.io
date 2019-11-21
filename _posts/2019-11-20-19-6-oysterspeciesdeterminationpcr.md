@@ -1,6 +1,6 @@
 ---
 layout: post
-title: November 20, 2019 - Oyster Species Determination: PCR 
+title: November 20, 2019 - Oyster Species Determination using PCR 
 ---
 
 Today, I worked with Sam to create a master mix for PCR analysis of the samples that were received from the oyster distribution company. The samples that I had to create master mixes for are: 9, 10, 11, 12, 21, 22, 23, 24, 33, 34, and 35, with one extra tube being used as a negative control. 
