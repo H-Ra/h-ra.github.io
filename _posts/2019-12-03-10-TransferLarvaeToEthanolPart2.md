@@ -7,7 +7,7 @@ title: December 3, 2019 - Transferring Frozen Larvae to Ethanol Part 2
 
 Today, I began transferring the frozen larvae samples into 70% ethanol solution and chose what samples to transfer via the randomized order noted in the [spreadsheet](https://docs.google.com/spreadsheets/d/1VY8pYaiqphMSWbrDmwwtDvatZWmOWcfQH2bi3mHRK24/edit#gid=0).
 
-I labeled the tubes in the order that I would be transferring the larvae from left-to-right and from top-to-bottom, as seen in the image below (the image's orientation should be rotated 90 degrees clockwise): 
+I labeled the tubes in the order that I would be transferring the larvae from left-to-right and from top-to-bottom, as seen in the image below: 
 
 ![labeled_tubes_20191203](https://github.com/H-Ra/h-ra.github.io/blob/master/images/labeled_tubes_20191203.JPG?raw=true)
 
