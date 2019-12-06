@@ -22,7 +22,7 @@ __Transferring Frozen Larvae to Ethanol__
 
 I continued to transfer the frozen larvae to the ethanol solution. Today, I transferred samples 118B, 29, 36B, 39, 9, 74, 115B, 152B, 104B, 38B, 37, 114B, 108, 133A, 14B, 34, 76, 102B, 120B, 113A, 25, 22B, 77B, 44, 63B, 2, 7B 142B, 140B, 66, 27, 86, 87B, 21, 149B, 6, 150B, and 41. 
 
-![completed_tubes_20191205](https://github.com/H-Ra/h-ra.github.io/blob/master/images/completed_tubes_20191205.JPG)
+![completed_tubes_20191205](https://github.com/H-Ra/h-ra.github.io/blob/master/images/completed_tubes_20191205.JPG?raw=true)
 
 Very soft samples included: 118B, 36B, 39, 9, 38B, 37, 14B, 34, 102B, 25, 22B, 44, 2, 7B, 27, 21, and 6.
 
@@ -30,7 +30,7 @@ Somewhat soft samples included: 104B, 114B, and 76.
 
 Additional sample tubes were labeled: 
 
-![labelled_tubes_20191205](https://github.com/H-Ra/h-ra.github.io/blob/master/images/labelled_tubes_20191205.JPG)
+![labelled_tubes_20191205](https://github.com/H-Ra/h-ra.github.io/blob/master/images/labelled_tubes_20191205.JPG?raw=true)
 
 ---
 
