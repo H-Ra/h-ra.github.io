@@ -24,7 +24,7 @@ I continued to transfer the frozen larvae to the ethanol solution. Today, I tran
 
 ![completed_tubes_20191205](https://github.com/H-Ra/h-ra.github.io/blob/master/images/completed_tubes_20191205.JPG?raw=true)
 
-Very soft samples included: 118B, 36B, 39, 9, 38B, 37, 14B, 34, 102B, 25, 22B, 44, 2, 7B, 27, 21, and 6.
+Very soft samples included: 29, 36B, 39, 9, 38B, 37, 14B, 34, 102B, 25, 22B, 44, 2, 7B, 27, 21, and 6.
 
 Somewhat soft samples included: 104B, 114B, and 76. 
 
