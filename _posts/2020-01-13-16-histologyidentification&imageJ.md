@@ -1,6 +1,6 @@
 ---
 layout: post
-title: January 13, 2019 - Histology Identification Practice and ImageJ
+title: January 13, 2020 - Histology Identification Practice and ImageJ
 ---
 
 ### Lab Work 
