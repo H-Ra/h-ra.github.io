@@ -1,6 +1,6 @@
 ---
 layout: post
-title: January 14, 2020 - Histology Analysis: Gonad Sex and Stage Determination Practice and Feret's Diameter & Using ImageJ
+title: January 14, 2020 - Histology Analysis - Gonad Sex and Stage Determination Practice and Feret's Diameter & Using ImageJ
 ---
 
 ### Lab Work
