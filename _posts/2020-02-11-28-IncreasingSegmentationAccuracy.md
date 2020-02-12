@@ -39,6 +39,7 @@ Larger epsilon value:
 ![approxPoly_image.PNG](https://github.com/H-Ra/h-ra.github.io/blob/master/images/approxPoly_image.PNG?raw=true)
 
 Smaller epsilon value:
+
 ![approxPoly_image_better.PNG](https://github.com/H-Ra/h-ra.github.io/blob/master/images/approxPoly_image_better.PNG?raw=true)
 
 These were the sources that I used to help me find and figure out how to use the commands stated above: 
