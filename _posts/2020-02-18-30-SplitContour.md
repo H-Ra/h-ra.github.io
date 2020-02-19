@@ -1,7 +1,7 @@
 ---
 layout: post
 title: February 18, 2020 - Continuing to Figure out how to split a single contour
---
+---
 
 ### Lab Work
 
